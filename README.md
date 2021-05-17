@@ -2,12 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Machine learning and data-stracture and algorithms
 - 💞️ I’m looking to collaborate on open source machine learning projects
-- 📫 How to reach me ... 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-   [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/sowrabhadiga/"
+- 📫 How to reach me ... [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sowrabhadiga/)
 
 <!---
 sowrabh-adiga/sowrabh-adiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
