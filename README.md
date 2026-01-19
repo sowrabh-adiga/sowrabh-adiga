@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sowrabh-adiga
 - 👀 I’m interested in chip design, AI
-- 🌱 I’m currently learning Machine learning and data-structure and algorithm and I’m looking to collaborate on open-source machine learning projects
+- 🌱 I’m currently learning Computer Architecture and Hardware Security.
 - 📫 Reach me on ... [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sowrabhadiga/)
 
 <!---
